@@ -1,0 +1,21 @@
+td[data-cell-red="#CC0000"] {
+  background: #cc0000;
+}
+td[data-cell-red="lightRed"] {
+  background: #ff9999;
+}
+.msg,
+.msg1 {
+  position: absolute;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  background: #20454b;
+  padding: 5px;
+  border-radius: 5px;
+  color: #eee;
+  font-size: 24px;
+}
+.ex2 {
+  border: 1px solid grey;
+}
